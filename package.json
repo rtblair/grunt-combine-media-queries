@@ -55,6 +55,7 @@
   "peerDependencies": {
     "grunt": ">=0.4.0"
   },
+  "private" : true,
   "keywords": [
     "gruntplugin",
     "media queries",
