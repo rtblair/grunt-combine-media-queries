@@ -45,7 +45,7 @@
     "node": ">=0.10.16"
   },
   "dependencies": {
-    "css-parse": "^1.5.0",
+    "css-parse": "^1.5.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
